@@ -34,3 +34,5 @@ https://drive.google.com/file/d/1yrXzIO8qD0i4Q45JpVCrBDxZh1aKmZlV/view?ts=5f0fb4
 Buildozer.spec
 
 https://github.com/putra98/KIVY/blob/master/buildozer.spec
+
+jangan lupa subscribe agar temen-temen bisa dapet informasi tutorial terbaru terimaksih.
