@@ -43,13 +43,13 @@ orientation = portrait
 
 fullscreen = 1
 
-android.ndk_path = ~/Desktop/python3/android-ndk-r19c-linux-x86_64/android-ndk-r19c
+android.ndk_path = ~/Desktop/python3/android-ndk-r19c-linux-x86_64/android-ndk-r19c (arahkan ke folder yang di extrak)
 
 # (str) Android SDK directory (if empty, it will be automatically downloaded.)
-android.sdk_path = ~/.buildozer/android/platform/android-sdk
+android.sdk_path = ~/.buildozer/android/platform/android-sdk  (arahkan ke folder yang di extrak)
 
 # (str) ANT directory (if empty, it will be automatically downloaded.)
-android.ant_path = ~/.buildozer/android/platform/apache-ant-1.9.4
+android.ant_path = ~/.buildozer/android/platform/apache-ant-1.9.4 (arahkan ke folder yang di extrak)
 [buildozer]
 
 log_level = 2
