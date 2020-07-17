@@ -3,7 +3,7 @@
 Ubuntu 18
 
 Selamat Datang 
-Lanjuan dari YouTube
+LanjuTan dari tutorial di YouTube
 
 Install package 
 
