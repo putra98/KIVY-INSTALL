@@ -1,6 +1,6 @@
 # KIVY
 
-Ubuntu
+Ubuntu 18
 
 Selamat Datang 
 Lanjuan dari YouTube
@@ -8,9 +8,13 @@ Lanjuan dari YouTube
 Install package 
 
 sudo apt update
+
 sudo apt install python3-pip
+
 sudo apt-get install openjdk-8-jdk
+
 Pip3 install buildozer
+
 Pip3 install cython
 
 kalian harus download sdk,ndk,ant kemudian di extrak
