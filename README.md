@@ -18,10 +18,10 @@ pip3 install --user --upgrade Cython==0.29.19 virtualenv  # the --user should be
 
 add the following line at the end of your ~/.bashrc file
 
-export PATH=$PATH:~/.local/bin/```
+export PATH=$PATH:~/.local/bin/
 
 # Instalasi Menggunakan MacOS
-```
+
 brew install openssl
 
 sudo ln -sfn /usr/local/opt/openssl /usr/local/ssl
@@ -32,4 +32,5 @@ python3 -m pip install --user --upgrade Cython==0.29.19 virtualenv  # the --user
 
 add the following line at the end of your `~/.bashrc` file
 
-export PATH=$PATH:~/Library/Python/3.7/bin```
+export PATH=$PATH:~/Library/Python/3.7/bin
+```
