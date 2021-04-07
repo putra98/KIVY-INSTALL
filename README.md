@@ -5,30 +5,31 @@
 # Instalasi
 Menggunakan Ubuntu 18
 
-sudo apt update
+pip3 install --user --upgrade buildozer
 
 sudo apt install python3-pip
 
 sudo apt-get install openjdk-8-jdk
 
-Pip3 install buildozer
+sudo apt update
 
-Pip3 install cython
+sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
 
-kalian harus download sdk,ndk,ant kemudian di extrak
+pip3 install --user --upgrade Cython==0.29.19 virtualenv  # the --user should be removed if you do this in a venv
 
-Ant 
+# add the following line at the end of your ~/.bashrc file
+export PATH=$PATH:~/.local/bin/
 
-https://github.com/putra98/KIVY/blob/master/apache-ant-1.9.4.zip
+Menggunakan MacOS
 
-Ndk 
+brew install openssl
 
-https://dl.google.com/android/repository/android-ndk-r19c-linux-x86_64.zip
+sudo ln -sfn /usr/local/opt/openssl /usr/local/ssl
 
-Sdk
+brew install pkg-config autoconf automake
 
-https://drive.google.com/file/d/1yrXzIO8qD0i4Q45JpVCrBDxZh1aKmZlV/view?ts=5f0fb450
+python3 -m pip install --user --upgrade Cython==0.29.19 virtualenv  # the --user should be removed if you do this in a venv
 
-Buildozer.spec
+# add the following line at the end of your `~/.bashrc` file
 
-https://github.com/putra98/KIVY/blob/master/buildozer.spec
+export PATH=$PATH:~/Library/Python/3.7/bin
