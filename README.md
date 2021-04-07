@@ -2,7 +2,7 @@
 ![1](https://user-images.githubusercontent.com/53217950/113902933-575e8e00-97c8-11eb-8736-008484b47846.png)
 ![2](https://user-images.githubusercontent.com/53217950/113902943-59285180-97c8-11eb-8617-c7fbf03f35c9.jpg)
 
-#Instalasi
+# Instalasi
 Menggunakan Ubuntu 18
 
 sudo apt update
