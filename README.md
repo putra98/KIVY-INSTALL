@@ -17,6 +17,7 @@ sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg
 pip3 install --user --upgrade Cython==0.29.19 virtualenv  # the --user should be removed if you do this in a venv
 
 add the following line at the end of your ~/.bashrc file
+
 export PATH=$PATH:~/.local/bin/
 
 # Instalasi Menggunakan MacOS
