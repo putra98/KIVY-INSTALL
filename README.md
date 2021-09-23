@@ -35,3 +35,14 @@ add the following line at the end of your `~/.bashrc` file
 
 export PATH=$PATH:~/Library/Python/3.7/bin
 ```
+
+# Instalasi Google COlab
+```
+!wget https://github.com/HeaTTheatR/KivyMD-data/raw/master/install-kivy-buildozer-dependencies.sh
+!chmod +x install-kivy-buildozer-dependencies.sh
+!./install-kivy-buildozer-dependencies.sh
+!sudo apt update
+!sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
+!pip install --upgrade Cython==0.29.19 virtualenv
+
+```
