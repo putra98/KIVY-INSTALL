@@ -1,8 +1,5 @@
 # KIVY
 ![1](https://user-images.githubusercontent.com/53217950/113902933-575e8e00-97c8-11eb-8736-008484b47846.png)
-# KIVYMD
-![2](https://github.com/kivymd/internal/blob/main/logo/kivymd_bot.png)
-
 # Instalasi Menggunakan Ubuntu 18
 ```
 pip3 install --user --upgrade buildozer
