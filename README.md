@@ -35,7 +35,7 @@ add the following line at the end of your `~/.bashrc` file
 export PATH=$PATH:~/Library/Python/3.7/bin
 ```
 
-# Instalasi Google COlab
+# Instalasi Google Colab
 ```
 !wget https://github.com/HeaTTheatR/KivyMD-data/raw/master/install-kivy-buildozer-dependencies.sh
 !chmod +x install-kivy-buildozer-dependencies.sh
