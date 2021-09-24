@@ -1,9 +1,5 @@
 # KIVY
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/53217950/113902933-575e8e00-97c8-11eb-8736-008484b47846.png" /></div>
-<div style="text-align:center; size:50%;"><img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" /></div>
-<div style="text-align:center"><img src="https://w7.pngwing.com/pngs/732/891/png-transparent-windows-8-computer-icons-windows-10-window-blue-angle-furniture-thumbnail.png" /></div>
-<div style="text-align:center"><img src="https://www.marketing-branding.com/wp-content/uploads/2020/07/google-colaboratory-colab-guia-completa.jpg" /></div>
-
 
 # Instalasi Menggunakan Ubuntu 18
 ```
